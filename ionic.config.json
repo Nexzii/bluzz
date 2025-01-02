@@ -1,0 +1,8 @@
+{
+  "name": "bluzz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "28c3d6c9"
+}
